@@ -1,4 +1,4 @@
-Este sitio gue creado en conjunto de un compañero,
+Este sitio fue creado en conjunto de un compañero,
 el aporto con sus basicos conocimientos en diseño web
 y se baso en la idea que fue creada por mi, ademas 
 utilizo GPT para limpiar mas el codigo y hacer que el 
